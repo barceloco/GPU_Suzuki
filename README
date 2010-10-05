@@ -1,0 +1,5 @@
+GPU_Suzuki - GPU (CUDA) implementation of a Trotter-Suzuki solver
+(c) 2010 by Armand Niederberger <Armand.Niederberger@opfocus.net>
+
+Version 0.1 alpha:
+Basic functionality. Now debugging.
