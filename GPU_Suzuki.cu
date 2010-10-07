@@ -211,7 +211,7 @@ __global__ void H2d_step(float *ket0, float *ket1, int dataketid, float deltat, 
 	float costx=(float) cos(deltathalf*Vx);
 	float sintx=(float) sin(deltathalf*Vx);
 	
-	float costy=(float) cos(deltathalf*Vx);
+	float costy=(float) cos(deltathalf*Vy);
 	float sinty=(float) sin(deltathalf*Vy);
 	
 	int rap;
